@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from "react";
+import { Story } from "../components/Story";
 import { getStoryId } from "../services/HackerNewsApi";
 
 export const StoriesContainer = () => {
-  const [storyIDs, setStoryIDs] = useState([]);
+  const [storyIds, setStoryIds] = useState([]);
 
   useEffect(() => {
-    getStoryId().then((data) => setStoryIDs(data));
+    getStoryId().then((data) => setStoryIds(data));
   }, []);
 
-  return <p>{storyIDs}</p>;
+  return storyIds.map((storyId) => <Story key={storyId} storyId={storyId} />);
 };
