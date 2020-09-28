@@ -13,4 +13,8 @@ This app is a basic daily news site which is mostly filled up with tech and soft
 
 ---
 
-## Project ScreenShots
+## Project ScreenShot(s)
+
+![MainPage](https://github.com/Bgstatic/ReactJS-NewsReader/blob/master/img/MainPage.png)
+
+---
