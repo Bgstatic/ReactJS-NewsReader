@@ -22,6 +22,13 @@ For more information about HackerNews Api --> [HackerNews Api](https://github.co
 
 ## Powered By:
 
- #### HackerNews Api
+#### HackerNews Api
  
- ![HackerNews](https://d3nb9u6x572n0.cloudfront.net/packs/media/images/logo-hn-search-a822432b.png)
+![HackerNews](https://d3nb9u6x572n0.cloudfront.net/packs/media/images/logo-hn-search-a822432b.png)
+ 
+---
+
+### Netlify
+
+![netlify](https://blog.back4app.com/wp-content/uploads/2019/11/netlify-alternatives-1140x515.png)
+
