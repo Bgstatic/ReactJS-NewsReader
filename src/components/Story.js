@@ -13,12 +13,12 @@ export const Story = ({ storyId }) => {
 
   useEffect(() => {
     getStory(storyId).then((data) => data && data.url && setStory(data));
-  }, []);
+  });
 
   return story && story.url ? (
     <StoryWrapper data-testid="story">
       <StoryTitle>
-        <a href={story.url} target="_blank">
+        <a href={story.url} target="_blank" rel="noopener noreferrer">
           {story.title}
         </a>
       </StoryTitle>
