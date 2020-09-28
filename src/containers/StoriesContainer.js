@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useMemo } from "react";
+import React, { useEffect, useState } from "react";
 import { Story } from "../components/Story";
 import { getStoryId } from "../services/HackerNewsApi";
 import { useInfiniteScroll } from "../hooks/useInfiniteScroll";
