@@ -9,6 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About the App
 
-This clone app is a small part of the Spotify. It can show your discover weekly, playlists and etc. It cannot play any music longer than 30 seconds due to Spotify's security policy. But it can be more functional when you use with [spotify-app](https://www.spotify.com/tr/download/other/) or [spotify-web](https://www.spotify.com/). Main purpose of the project is that become more familiar with React.js and develop Frontend Skills. 
+This app is a basic daily news site which is mostly filled up with tech and software topics. It can randomly list the news from different user instantly up to 500 news. (Api limited). Using scroll control, the site loads a few news to prevent heacy loading process. Open to contributions ...  
 
 ---
