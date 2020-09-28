@@ -12,6 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This app is a basic daily news site which is mostly filled up with tech and software topics. It can randomly list the news from different user instantly up to 500 news. (Api limited). Using scroll control, the site loads a few news to prevent heacy loading process. Open to contributions ...  
 
 For more information about HackerNews Api --> [HackerNews Api](https://github.com/HackerNews/API)
+
 ---
 
 ## Project ScreenShot(s)
